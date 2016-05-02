@@ -1,6 +1,6 @@
-# dnsgetarecords
+#dnsgetarecords
 
-### General Information
+###General Information
 
 Name: dnsgetarecords
 =======

@@ -1,10 +1,9 @@
-# dnsgetarecords
+#dnsgetarecords
 
-### General Information
+###General Information
 
 Name: dnsgetarecords
-=======
-Name: dnsgetarecords.py  
+
 
 Version: v0.1  
 Release: Review  
