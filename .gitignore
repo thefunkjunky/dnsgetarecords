@@ -1,0 +1,10 @@
+*.pyc
+*.log
+env/
+venv/
+*ipynb
+.ipynb_checkpoints/
+dist/
+build/
+*.egg-info
+
