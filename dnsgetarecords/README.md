@@ -1,11 +1,11 @@
 # dnsgetarecords
 
 ### General Information
-<<<<<<< HEAD
+
 Name: dnsgetarecords
 =======
 Name: dnsgetarecords.py  
->>>>>>> 4d0d7316e6473e5520eaffcf78b294ada750add6
+
 Version: v0.1  
 Release: Review  
 Author: J Garrett Anderson  
@@ -14,10 +14,8 @@ and returns a list of DNS A-record IPv4 addresses for the domain
 
 
 usage:   
-<<<<<<< HEAD
+
 * Install .egg via easy_install   
-=======
->>>>>>> 4d0d7316e6473e5520eaffcf78b294ada750add6
 ```dnsgetarecords [-h] [-t TIMEOUT] [-m MAXITEMS] [-v] domain```
 
 positional arguments:  
